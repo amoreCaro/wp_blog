@@ -11,4 +11,3 @@ function theme_menu() {
     ]);
 }
 add_action("after_setup_theme", "theme_menu");
-
