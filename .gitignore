@@ -24,8 +24,9 @@ Thumbs.db
 
 # Composer and Node modules
 vendor/
-node_modules/
+assets/node_modules/
 assets/dist
+git-helper.html
 
 # Environment files
 .env
